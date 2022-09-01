@@ -9,7 +9,7 @@ Furthermore, QI2 was designed to integrate well into the clinical environment; i
 
 QI relies on established components for medical image management, radiomics feature computation and machine learning, including [Kheops](https://github.com/OsiriX-Foundation/kheops), an open-source web-based for managing collections of DICOM images, [pyradiomics](https://pyradiomics.readthedocs.io/en/latest/index.html) for feature extraction and [scikit-learn](https://scikit-learn.org/stable/) / [scikit-survival](https://scikit-survival.readthedocs.io/en/stable/) for machine learning model development and evaluation.
 
-![QuantImage2 schema](/assets/images/qi-overview.png.jpg "QuantImage2")
+![QuantImage2 schema](/assets/images/qi-overview.png "QuantImage2")
 
 The video below is an introduction to the QuantImage v2 radiomics research platform and its features:
 

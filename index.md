@@ -37,13 +37,13 @@ You can try out the platform <a href="https://quantimage2.ehealth.hevs.ch" targe
 
 <div class="row">
   <div class="column">
-    <img src="/assets/logo/snsf.png" alt="SNSF" style="width:100%">
+    <img src="/assets/logos/snsf.png" alt="SNSF" style="width:100%">
   </div>
   <div class="column">
-    <img src="/assets/logo/sphn.png" alt="SPHN" style="width:100%">
+    <img src="/assets/logos/sphn.png" alt="SPHN" style="width:100%">
   </div>
   <div class="column">
-    <img src="/assets/logo/hasler.png" alt="Hasler" style="width:100%">
+    <img src="/assets/logos/hasler.png" alt="Hasler" style="width:100%">
   </div>
 </div>
 

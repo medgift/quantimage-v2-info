@@ -28,19 +28,26 @@ The video below is an introduction to the QuantImage v2 radiomics research platf
 
 ## Getting Started
 You can try out the platform <a href="https://quantimage2.ehealth.hevs.ch" target="_blank">here</a>.
+<!-- info about available dataset & sign-up process  -->
 
 ### QuantImage v2 as VirtualMachine image 
+To make it easy for you to **test QI2 with your data**, we provide QI2 as ([VirtualBox](https://www.virtualbox.org/) virtual image here. 
 
+<!-- add information about minimum specs, startup and update process. We could create a separate page for the technical details  -->
 
 ### QuantImage v2 source code
+ <!-- github link -->
 
+## Support & Funding
+
+Research and development of QuantImage v2 was supported by
 
 <div class="row">
   <div class="column">
     <img src="/assets/logos/snsf.png" alt="SNSF" style="width:30%">
   </div>
   <div class="column">
-    <img src="/assets/logos/sphn.png" alt="SPHN" style="width:30%">
+    <img src="/assets/logos/sphn.png" alt="SPHN" style="width:20%">
   </div>
   <div class="column">
     <img src="/assets/logos/hasler.png" alt="Hasler" style="width:30%">

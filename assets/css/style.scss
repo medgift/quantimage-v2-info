@@ -6,3 +6,13 @@
 .site-footer-credits{
   display: none;
 }
+
+.funding-logos{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.funding-logos img{
+  max-height: 48px;
+}

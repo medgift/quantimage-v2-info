@@ -2,8 +2,7 @@
 
 QuantImage v2 (QI2) is an open-source web-based platform for no-code clinical radiomics research. It has been developed with the aim to empower physicians to play a leading role in clinical radiomics research. We believe that tighter involvement of domain experts is critical to ensuring the clinical relevance of radiomics research and will lead to the development of better interpretable and more generalizable radiomics models.
 
-<img src="assets/images/qi-overview.png"
-     alt="QuantImage2">
+<img src="assets/images/qi-overview.png" alt="QuantImage v2" title="QuantImage v2 - Overview" />
 
 ### One-stop tool for clinical radiomics research
 To implement this vision, and different to most other radiomics softwares, QI2 supports **all steps of a typical radiomics study workflow**:
@@ -43,8 +42,8 @@ To make it easy for you to **test QI2 with your data**, we provide QI2 as ([Virt
 Research and development of QuantImage v2 was supported by
 
 <div class="funding-logos">
-    <img src="assets/logos/snsf.png" alt="SNSF" />
-    <img src="assets/logos/sphn.png" alt="SPHN" />
-    <img src="assets/logos/hasler.png" alt="Hasler" />
+    <a href="https://snf.ch" target="_blank" rel="nofollow"><img src="assets/logos/snsf.png" alt="SNSF" /></a>
+    <a href="https://sphn.ch" target="_blank" rel="nofollow"><img src="assets/logos/sphn.png" alt="SPHN" /></a>
+    <a href="https://haslerstiftung.ch" target="_blank" rel="nofollow"><img src="assets/logos/hasler.png" alt="Hasler" />
 </div>
 

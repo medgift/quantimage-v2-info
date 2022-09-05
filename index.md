@@ -44,6 +44,6 @@ Research and development of QuantImage v2 was supported by
 <div class="funding-logos">
     <a href="https://snf.ch" target="_blank" rel="nofollow"><img src="assets/logos/snsf.png" alt="SNSF" /></a>
     <a href="https://sphn.ch" target="_blank" rel="nofollow"><img src="assets/logos/sphn.png" alt="SPHN" /></a>
-    <a href="https://haslerstiftung.ch" target="_blank" rel="nofollow"><img src="assets/logos/hasler.png" alt="Hasler" />
+    <a href="https://haslerstiftung.ch" target="_blank" rel="nofollow"><img src="assets/logos/hasler.png" alt="Hasler" /></a>
 </div>
 

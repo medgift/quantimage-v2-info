@@ -26,13 +26,14 @@ The video below is an introduction to the QuantImage v2 radiomics research platf
 <video style='max-width: 832px; max-height: 832px' controls><source src='https://drive.switch.ch/index.php/s/3Tom8ZnIF8wl2r3/download' type='video/mp4'>Video Not Suppported</video>
 
 ## Getting Started
-You can try out the platform <a href="https://quantimage2.ehealth.hevs.ch" target="_blank">here</a>.
+You can try out the platform <a href="https://quantimage2.ehealth.hevs.ch" target="_blank">here</a>. Registration gives you access to a fully functional installation of QuantImage. 
 <!-- info about available dataset & sign-up process  -->
+We are preparing information and pointers to public datasets for testing ... more details will be available soon.
 
 ### QuantImage v2 Virtual Machine
-To make it easy for you to **test QI2 with your data**, we provide QI2 as a ([VirtualBox](https://www.virtualbox.org/)) VM <a href="https://fast.hevs.ch/quantimage-v2-vm-download" target="blank" rel="noopener noreferrer">here</a>.
+To make it easy for you to **test QI2 with your data**, we provide QI2 as a ([VirtualBox](https://www.virtualbox.org/)) Virtual Machine image <a href="https://fast.hevs.ch/quantimage-v2-vm-download" target="blank" rel="noopener noreferrer">here</a>.
 
-**NOTE** : The QuantImage v2 Virtual Machine is configured to use 8GB of RAM & 4 CPUs, which corresponds to the minimum specifications for running the platform smoothly. A README.md file is included in the VM ZIP archive with indications on login credentials, updating the platform, etc.
+**NOTE** : The download (zip archive, ~13GB) includes a README.md file with indications on login credentials, updating the platform, etc. The QuantImage v2 Virtual Machine is pre-configured to use 8GB of RAM & 4 CPUs, which corresponds to the minimum specifications for running the platform smoothly. 
 
 ### QuantImage v2 source code
 

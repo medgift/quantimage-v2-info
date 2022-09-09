@@ -30,7 +30,7 @@ You can try out the platform <a href="https://quantimage2.ehealth.hevs.ch" targe
 <!-- info about available dataset & sign-up process  -->
 
 ### QuantImage v2 Virtual Machine
-To make it easy for you to **test QI2 with your data**, we provide QI2 as a ([VirtualBox](https://www.virtualbox.org/)) virtual machine <a href="https://fast.hevs.ch/quantimage-v2-vm-download" target="blank" rel="noopener noreferrer">here</a>.
+To make it easy for you to **test QI2 with your data**, we provide QI2 as a ([VirtualBox](https://www.virtualbox.org/)) VM <a href="https://fast.hevs.ch/quantimage-v2-vm-download" target="blank" rel="noopener noreferrer">here</a>.
 
 **NOTE** : The QuantImage v2 Virtual Machine is configured to use 8GB of RAM & 4 CPUs, which corresponds to the minimum specifications for running the platform smoothly. A README.md file is included in the VM ZIP archive with indications on login credentials, updating the platform, etc.
 

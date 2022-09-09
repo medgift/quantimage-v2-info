@@ -46,7 +46,7 @@ To easily get started and create a running instance of the full platform (Kheops
 
 Here are the links for the various repositories the full platform consists of:
 
-* Custom Kheops Configuration for QuantImage v2 : <https://github.com/medgift/quantimage2-kheops>
+* QuantImage v2 Kheops configuration : <https://github.com/medgift/quantimage2-kheops>
 * QuantImage v2 Backend & associated tools : <https://github.com/medgift/quantimage2_backend>
 * QuantImage v2 Frontend : <https://github.com/medgift/quantimage2-frontend>
 

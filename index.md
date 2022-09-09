@@ -40,15 +40,15 @@ To make it easy for you to **test QI2 with your data**, we provide QI2 as a ([Vi
 
 To easily get started and create a running instance of the full platform (Kheops, QuantImage v2 Frontend & Backend, Keycloak, OHIF Viewer, etc.), clone the following repository and run the setup script as described in the README.md file : 
 
-* Setup & Update Scripts : https://github.com/medgift/quantimage2-setup
+* Setup & Update Scripts : <https://github.com/medgift/quantimage2-setup>
 
 #### GitHub Repositories
 
 Here are the links for the various repositories the full platform consists of:
 
-* Custom Kheops Configuration for QuantImage v2 : https://github.com/medgift/quantimage2-kheops
-* QuantImage v2 Backend & associated tools : https://github.com/medgift/quantimage2_backend
-* QuantImage v2 Frontend : https://github.com/medgift/quantimage2-frontend
+* Custom Kheops Configuration for QuantImage v2 : <https://github.com/medgift/quantimage2-kheops>
+* QuantImage v2 Backend & associated tools : <https://github.com/medgift/quantimage2_backend>
+* QuantImage v2 Frontend : <https://github.com/medgift/quantimage2-frontend>
 
 ## Support & Funding
 

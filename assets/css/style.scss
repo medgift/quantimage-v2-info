@@ -16,3 +16,31 @@
 .funding-logos img{
   max-height: 48px;
 }
+
+.navbar{
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+}
+
+.navbar li{
+  list-style-type: none;
+  display: inline-block;
+}
+
+.team-table{
+  text-align: center;
+}
+
+.team-table tbody{
+  width: 100%;
+  display: table;
+}
+
+.team-table td{
+  vertical-align: middle;
+}
+
+.team-table img{
+  max-width: 132px;
+}

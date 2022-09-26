@@ -53,6 +53,8 @@ Here are the links for the various repositories the full platform consists of:
 * QuantImage v2 Frontend : <https://github.com/medgift/quantimage2-frontend>
 
 ## Team
+
+### Core Team
 <table class="team-table">
   <tr>
     <td valign="top"><img src="assets/team/adrien.jpg"></td>
@@ -74,7 +76,23 @@ Here are the links for the various repositories the full platform consists of:
         <a href="https://medgift.hevs.ch/wordpress/team/valentin-oreiller/">Valentin Oreiller</a>
     </td>
   </tr>
- </table>
+</table>
+
+### Contributors
+
+#### CHUV
+
+* [Pr John Prior](https://centrescancer.chuv.ch/specialiste/john-prior)
+* [Dr Mario Jreige](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1216661&LanCode=8)
+
+#### HES-SO Valais
+
+* [Dr Florian Evéquoz](https://www.hevs.ch/en/collaborateurs/evequoz-1589)
+* [Dr Himanshu Verma](https://www.tudelft.nl/io/over-io/personen/verma-h)
+
+#### USZ
+
+* [Dr Diem Vuong](https://www.researchgate.net/profile/Diem-Vuong)
 
 ## Support & Funding
 Research and development of QuantImage v2 was supported by

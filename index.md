@@ -3,6 +3,11 @@ QuantImage v2 (QI2) is an open-source web-based platform for no-code clinical ra
 
 <img src="assets/images/qi-overview.png" alt="QuantImage v2" title="QuantImage v2 - Overview" />
 
+### Citing QuantImage v2
+**If you are using QuantImage v2 in your research, please cite the following publication:**
+
+Abler, D., Schaer, R., Oreiller, V. *et al.* QuantImage v2: a comprehensive and integrated physician-centered cloud platform for radiomics and machine learning research. *Eur Radiol Exp* **7**, 16 (2023). [https://doi.org/10.1186/s41747-023-00326-z](https://doi.org/10.1186/s41747-023-00326-z)
+
 ### One-stop tool for clinical radiomics research
 To implement this vision, and different to most other radiomics softwares, QI2 supports **all steps of a typical radiomics study workflow**:
 * allowing the user to create patient cohorts, 

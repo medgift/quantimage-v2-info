@@ -39,7 +39,7 @@ We are preparing information and pointers to public datasets for testing, more d
 to request the access to the datasets.
 
 ### QuantImage v2 Virtual Machine
-To make it easy for you to **test QI2 with your data**, we provide QI2 as a ([VirtualBox](https://www.virtualbox.org/)) Virtual Machine image <a href="https://fast.hevs.ch/quantimage-v2-vm-download" target="blank" rel="noopener noreferrer">here</a>.
+To make it easy for you to **test QI2 with your data**, we provide QI2 as a ([VirtualBox](https://www.virtualbox.org/)) Virtual Machine image <a href="https://vm-download.quantimage2.ehealth.hevs.ch" target="blank" rel="noopener noreferrer">here</a>.
 
 **NOTE** : The download (zip archive, ~13GB) includes a README.md file with indications on login credentials, updating the platform, etc. The QuantImage v2 Virtual Machine is pre-configured to use 8GB of RAM & 4 CPUs, which corresponds to the minimum specifications for running the platform smoothly. 
 
